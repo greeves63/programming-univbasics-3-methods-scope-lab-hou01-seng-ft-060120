@@ -14,5 +14,6 @@ def link
 end
 
 def all_phrases
-  puts "It's Dangerous To Go Alone! Take This."
+  status = "It's Dangerous To Go Alone! Take This."
+  puts status
 end
